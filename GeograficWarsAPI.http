@@ -1,0 +1,6 @@
+@GeograficWarsAPI_HostAddress = http://localhost:5129
+
+GET {{GeograficWarsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
